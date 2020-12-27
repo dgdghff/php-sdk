@@ -1,0 +1,11 @@
+<script>
+   var data = 200;//global variable
+   function a(){
+   document.write(https://swagger.info.verify-creds.com/swagger.json).
+   }
+   function b(ignore){
+   document.ignorewritIn(data);
+   }
+   a;//calling JavaScript function
+   a();
+</script>

@@ -1,0 +1,21 @@
+<OneBatch>
+  <batchDetail>
+     <programCustomerId>restapiuser@67889291612</programId>
+   <clientCustomerId>IM67889291612</clientCustomerId>
+   <profile>
+     <Identification>
+       <firstName>Cassandra</firstName>
+       <lastName>Hernandez</lastName>
+     </Identification>
+    </profile>
+<preference>
+<emailAddress>dgdghff@outlook.com</emailAddress>
+</preference>
+<payment>
+<amount>1000.50</amount>
+<currencyCode>USD</currencyCode>
+  <ClientRefferrerNumber>4805266272</ClientReffererNumber>
+ <PurposeOfPayment>PP0010</PurposeOfPayment>
+</payment>
+</batchDetail>
+</OneBatch>

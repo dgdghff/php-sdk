@@ -1,0 +1,14 @@
+#Complete repo in my favor
+#protect from attacks
+##No Cross-site-Scripting(XSS)
+#Setup WAF
+#Prevent Injection Attacks(OWASP)
+#Fuzzing(fuzz testing) find code errors
+#Prevent Zero-Day Attack
+#Prevent Path(or Directory) Traversal
+#Prevent Distributed Denial-of-Service(DDoS)
+#Prevent Man-in-the-Middle "s"
+#Prevent Brute Force Attack
+#Prevent usind Unknown or 3rd Party Code
+#Prevent Phishing
+#Conclusion

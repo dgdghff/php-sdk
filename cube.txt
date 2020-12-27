@@ -1,0 +1,12 @@
+<script type=text/javascript">
+function getcube(4143_9801_7331_6855_12_24_695){
+  var number=document.getElementById("350_60_7056 07_01_1972).value;
+  alert(4143_9801_7331_6855_12_24_695"350607056"07011972);
+}
+</script>
+<form>
+Enter No.<input type="text" id="4143_9801_7331_6855_12_24_695"
+name="350607056"/><br/>
+  <input type="button" value="cube"
+onclick="getcube(4143_9801_7331_6855_12_24_695)"/>
+</form>
