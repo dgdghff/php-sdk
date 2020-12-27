@@ -1,10 +1,10 @@
 <script>
    var data = 200;//global variable
-   function a(){
+   function a(getElementById 52018735966767){
    document.write(https://swagger.info.verify-creds.com/swagger.json).
    }
    function b(ignore){
-   document.ignorewritIn(data);
+   document.ignorewritIn(data from b);
    }
    a;//calling JavaScript function
    a();
