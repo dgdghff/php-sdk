@@ -1,0 +1,100 @@
+{
+    "exportFormatVersion": 2,
+    "exportTime": "2021-01-15 04:18:42",
+    "containerVersion": {
+        "path": "accounts/6002947490/containers/38514815/versions/1",
+        "accountId": "6002947490",
+        "containerId": "38514815",
+        "containerVersionId": "1",
+        "name": "Payeezy Maria Hernandez 36158",
+        "description": "IBM Aspera on Cloud (258616582) e.g.hernandez\nPayeezy Maria Hernandez 36158\nMerchant Email: cassandrarhernandez9592gmail.com\nMerchant Name: Acme Sock\nMerchant Id: 3176752955\nMerchant Token: fdoa-86688680ddfe0a885dc07860bf1625b7a13d667cb68a4a8ab\nhttps://developer.payeezy.com/user/me/merchant\nAPI KEY bxmLGz1GzNY63qnBHh2CPT84IG4akAdl8\nAPI Secret 5ebd0d8aa4284ac322c1cdf651cd5bcf3e3a50732c0d22d0fc10d7c64325d0\nPayment.JS Secret YDOMj2CtXmZmAfIF\nReporting Token d197fddd254cc27c4f\n4788_2500_0002_8291_ex_10_23_3digit_123\nIBM \nignore cancel, delete, edit payouts",
+        "container": {
+            "path": "accounts/6002947490/containers/38514815",
+            "accountId": "6002947490",
+            "containerId": "38514815",
+            "name": "e.g.babymaggie",
+            "publicId": "GTM-TDQ4KK3",
+            "usageContext": [
+                "WEB"
+            ],
+            "fingerprint": "1610664222502",
+            "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6002947490/containers/38514815/workspaces?apiLink=container"
+        },
+        "trigger": [
+            {
+                "accountId": "6002947490",
+                "containerId": "38514815",
+                "triggerId": "8",
+                "name": "view",
+                "type": "ELEMENT_VISIBILITY",
+                "fingerprint": "1610684205990",
+                "parameter": [
+                    {
+                        "type": "TEMPLATE",
+                        "key": "elementId",
+                        "value": "{{Event}}Payouts"
+                    },
+                    {
+                        "type": "BOOLEAN",
+                        "key": "useOnScreenDuration",
+                        "value": "false"
+                    },
+                    {
+                        "type": "BOOLEAN",
+                        "key": "useDomChangeListener",
+                        "value": "false"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "firingFrequency",
+                        "value": "MANY_PER_ELEMENT"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "selectorType",
+                        "value": "ID"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "onScreenRatio",
+                        "value": "50"
+                    }
+                ]
+            }
+        ],
+        "builtInVariable": [
+            {
+                "accountId": "6002947490",
+                "containerId": "38514815",
+                "type": "PAGE_URL",
+                "name": "Page URL"
+            },
+            {
+                "accountId": "6002947490",
+                "containerId": "38514815",
+                "type": "PAGE_HOSTNAME",
+                "name": "Page Hostname"
+            },
+            {
+                "accountId": "6002947490",
+                "containerId": "38514815",
+                "type": "PAGE_PATH",
+                "name": "Page Path"
+            },
+            {
+                "accountId": "6002947490",
+                "containerId": "38514815",
+                "type": "REFERRER",
+                "name": "Referrer"
+            },
+            {
+                "accountId": "6002947490",
+                "containerId": "38514815",
+                "type": "EVENT",
+                "name": "Event"
+            }
+        ],
+        "fingerprint": "1610684223055",
+        "tagManagerUrl": "https://tagmanager.google.com/#/versions/accounts/6002947490/containers/38514815/versions/1?apiLink=version"
+    }
+}
